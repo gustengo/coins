@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;;
+}
+table{
+    width: 100%;
+    border-collapse : collapse;
+}
+img{
+    width: 15%;
+}
+#img{
+    width: 20%;
+}
+thead{
+    background-color: cadetblue;
+}
+tfoot{
+    background-color: azure;
+}
+th{
+    height: 3rem;
+}
+td, th{
+    /*border-radius: 15px;*/
+    border-color: black;
+    height: 3.3rem;
+    border-bottom: inset;
+}
